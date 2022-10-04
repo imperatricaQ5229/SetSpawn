@@ -1,4 +1,4 @@
-# SetSpawn-
+# SetSpawn
 set spawn in your server
 
 
