@@ -8,7 +8,7 @@ commands:
 permission: imperatrica.spawn
 
 
-/spawn teleport to spawn
+/spawn - teleport to spawn
 
 permission: imperatrica.setspawn
 
