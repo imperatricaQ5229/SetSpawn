@@ -1,0 +1,17 @@
+name: SetSpawn
+main: com.imperatrica.spawn.Main
+version: "1.0.0"
+api: ["1.0.0"]
+author: imperatrica
+commands:
+  setspawn:
+    description: "§l§bПоставить§fточку для §cспавна"
+    permission: "imperatrica.setspawn"
+  spawn:
+    description: "§l§bТелепортация §fна §cспавн"
+    permission: "imperatrica.spawn"
+permissions:
+  imperatrica.setspawn:
+    default: op
+  imperatrica.spawn:
+    default: true
